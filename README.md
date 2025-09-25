@@ -9,7 +9,12 @@ Explorar Python de forma criativa e prática, aplicando bibliotecas e ferramenta
 ## 🛠️ Tecnologias utilizadas  
 - **Python 3**  
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — para download de vídeos/áudios.  
-- [FFmpeg](https://ffmpeg.org/) — para conversão e extração de áudio.  
+- [FFmpeg](https://ffmpeg.org/) — para conversão e extração de áudio.
+
+
+  ## Saiba mais
+👉 ## 📖 Saiba mais
+[Leia o artigo completo no Medium](https://medium.com/@alarumarinho/gagamotivation-lady-gaga-feat-python-e0c6caa4a297)
 
 
 
@@ -19,6 +24,3 @@ Explorar Python de forma criativa e prática, aplicando bibliotecas e ferramenta
 ├── requirements.txt    # Dependências do projeto
 └── README.md           # Documentação
 
-## Saiba mais
-👉 ## 📖 Saiba mais
-[Leia o artigo completo no Medium](https://medium.com/@alarumarinho/gagamotivation-lady-gaga-feat-python-e0c6caa4a297)
