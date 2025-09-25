@@ -19,3 +19,6 @@ Explorar Python de forma criativa e prática, aplicando bibliotecas e ferramenta
 ├── requirements.txt    # Dependências do projeto
 └── README.md           # Documentação
 
+## Saiba mais
+👉 ## 📖 Saiba mais
+[Leia o artigo completo no Medium](https://medium.com/@alarumarinho/gagamotivation-lady-gaga-feat-python-e0c6caa4a297)
