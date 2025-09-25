@@ -10,7 +10,8 @@ Explorar Python de forma criativa e prática, aplicando bibliotecas e ferramenta
 - **Python 3**  
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) — para download de vídeos/áudios.  
 - [FFmpeg](https://ffmpeg.org/) — para conversão e extração de áudio.  
-- **Bibliotecas auxiliares**: `os`, `subprocess`, `time`  
+
+
 
 ## 📂 Estrutura do Projeto  
 ```bash
